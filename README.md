@@ -27,5 +27,3 @@ El sensor DPS310 utiliza comunicación **I2C**. En el ESP32, las conexiones reco
 - **GND → GND**  
 
 > ⚠️ Importante: el DPS310 debe alimentarse con **3.3V**. Conectarlo a **5V puede dañar el sensor**.  
-
-© Diego Barajas, 2025  
